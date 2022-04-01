@@ -1,0 +1,12 @@
+{
+  "name": "card-validator",
+  "version": "1.0.0",
+  "description": "Python credit card validator using Luhn's algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "TEST=true python3 credit.py",
+    "start": "python3 credit.py"
+  },
+  "author": "rmzNadir",
+  "license": "ISC"
+}
